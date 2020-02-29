@@ -1,0 +1,15 @@
+.cvm{
+    border:1px solid #00ff00;
+    padding:20px;
+    display:inline-block;
+    width:300px;
+    margin:20px;
+    background-color:cyan;
+}
+.event-name{
+    font-weight:600;
+
+}
+.cvm div{
+    margin-bottom: 20px;
+}
